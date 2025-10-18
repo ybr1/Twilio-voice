@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice">Hello Support, problem type 001 has been detected. Please investigate and take the appropriate remedial actions.</Say>
+</Response>
